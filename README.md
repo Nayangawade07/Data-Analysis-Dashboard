@@ -38,7 +38,7 @@ Key KPIs used:
 5. Designed interactive visuals such as cards, charts, and slicers  
 6. Optimized the dashboard layout for better readability  
 
- <a href=" https://github.com/Nayangawade07/Data-Analysis-PowerBi Dashboard/blob/main/Dashboard_Preview.Png.png">View Dashboard</a>
+ <a href="https://github.com/Nayangawade07/Data-Analysis-Dashboard/blob/main/Dashboard_Preview.Png.png">View Dashboard</a>
 
  ## Dashboard Process
 1. Imported the dataset into Power BI  
