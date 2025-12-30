@@ -12,7 +12,7 @@ The dataset contains business-related data such as:
 - Product and category details
 - Date-related fields
 The data was cleaned and transformed using Power Query before creating the dashboard.
-  <a href="https://github.com/Nayangawade07/Data-Analysis-PowerBi Dashboard/blob/main/Dashboard_Demo.mp4">Super Store Dashboard Demo</a>
+  <a href="https://github.com/Nayangawade07/Data-Analysis- Dashboard/blob/main/Dashboard_Demo.mp4">Super Store Dashboard Demo</a>
   
 
 ## Key Questions (KPIs)
